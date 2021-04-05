@@ -1,0 +1,8 @@
+[export]
+excludes_db = "phpmyadmin, test, mysql, information_schema, performance_schema"
+export_databases = ""
+db_host = "localhost"
+db_user = "root"
+db_pass = ""
+; mysqldump_path = "mysqldump"
+mysqldump_path = "D:\xampp\mysql\bin\mysqldump.exe"
